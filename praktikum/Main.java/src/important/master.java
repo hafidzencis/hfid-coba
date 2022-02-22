@@ -6,5 +6,6 @@ public class master {
         System.out.println("Point-1");
         System.out.println("Point-3");
         System.out.println("Point-2");
+        System.out.println("Point-4");
     }
 }
