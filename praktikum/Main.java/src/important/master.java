@@ -9,7 +9,5 @@ public class master {
         System.out.println("Point-4");
         System.out.println("Point-5");
         System.out.println("Point-5 xx");
-        System.out.println("Point-6 ZZ");
-
     }
 }
