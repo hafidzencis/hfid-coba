@@ -7,8 +7,12 @@ print("Coba-6")
 print("Coba-7")
 <<<<<<< HEAD
 print("feature B")
+<<<<<<< HEAD
 =======
 print("feature A")
 print("feature A A")
 print("feature sub A")
 >>>>>>> featureA
+=======
+print("feature SubB")
+>>>>>>> featureB
